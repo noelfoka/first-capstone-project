@@ -183,3 +183,30 @@ nav h2 {
   padding: 5%;
   opacity: 0.9;
 }
+
+.program-item {
+  opacity: 0.7;
+  margin: 2% 0;
+  padding: 3%;
+  border-radius: 5px;
+}
+
+.item-icon {
+  width: 12%;
+}
+
+.item-header {
+  width: 28%;
+}
+
+.item-content {
+  width: 60%;
+}
+
+.main-btn {
+  margin: 5% 0;
+}
+
+.see-prpogram {
+  display: none;
+}
