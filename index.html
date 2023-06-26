@@ -2,11 +2,57 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
+        <link rel="shortcut icon" href="./utils/images/logo.png"
+            type="image/png" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Capstone Conference</title>
-        <link rel="stylesheet" href="style.css">
+        <title>NUMERICA IDEAS and the evolution of digital in Central Africa
+            conference</title>
+        <meta name="keywords" content="html, css, javascript" />
+        <meta
+            name="description"
+            content="YTU Technology and Entrepreneurship Conference - 2021" />
+        <!-- Google Font -->
+        <link
+            href="https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap"
+            rel="stylesheet"
+            crossorigin="anonymous" />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@700;800;900&display=swap"
+            rel="stylesheet"
+            crossorigin="anonymous" />
+        <!-- Font Awesome -->
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+            integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+            crossorigin="anonymous"
+            referrerpolicy="no-referrer" />
+        <!-- Mobile CSS -->
+        <link rel="stylesheet" href="css/global.css" />
+        <link rel="stylesheet" href="css/main.css" />
     </head>
-    <body>
-        <h1>HELLO CAPSTONE</h1>
+    <body class="flex-column-center">
+
+        <header class="bg-light-grey flex-column-center">
+            <nav>
+                <div class="nav-bg"></div>
+                <div class="light-black hamburger-menu-display"
+                    onclick="openNav()">
+                    <i class="fas fa-bars hamburger-menu"></i>
+                </div>
+                <div id="myNav" class="overlay bg-light-black">
+                    <a href="javascript:void(0)" class="closebtn"
+                        onclick="closeNav()">&times;</a>
+                    <div class="overlay-content">
+                        <a href="#">About</a>
+                        <a href="#">Main Program</a>
+                        <a href="#">Speakers</a>
+                        <a href="#">Partners</a>
+                        <a href="#">Join the Program</a>
+                        <a href="#">Contact</a>
+                    </div>
+                </div>
+            </nav>
+        </header>
     </body>
 </html>
