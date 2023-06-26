@@ -170,3 +170,16 @@ nav h2 {
   z-index: -2;
   background-size: cover;
 }
+
+.infos {
+  margin: 10% 0;
+}
+
+/* Main Program */
+.main-program {
+  background: url("../utils/images/mosaic.png");
+  width: 100%;
+  height: 100%;
+  padding: 5%;
+  opacity: 0.9;
+}
