@@ -46,3 +46,127 @@ nav {
   background-repeat: no-repeat;
   opacity: 0.8;
 }
+
+nav h2 {
+  font-family: "cocogoose-light", sans-serif;
+  letter-spacing: 1.5px;
+  margin-top: 5%;
+  margin-bottom: 2%;
+  justify-self: center;
+  align-self: center;
+}
+
+.hamburger-menu {
+  font-size: 30px;
+  font-weight: 900;
+  cursor: pointer;
+  padding: 10px;
+  margin: 10px;
+}
+
+.overlay {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  opacity: 0.98;
+  overflow-x: hidden;
+  transition: 0.5s;
+}
+
+.overlay-content {
+  position: relative;
+  top: 25%;
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.overlay a {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 36px;
+  color: #ec5242;
+  display: block;
+  transition: 0.4s;
+}
+
+.overlay a:hover,
+.overlay a:focus {
+  color: #f1f1f1;
+}
+
+.overlay .closebtn {
+  position: absolute;
+  top: 1.5rem;
+  right: 3rem;
+  font-size: 4rem;
+}
+
+/* First section */
+.container {
+  width: 100%;
+  position: relative;
+}
+
+.main-content-headers h2 {
+  width: 100%;
+  margin: 3% 0;
+}
+
+.main-content-headers h1 {
+  width: 100%;
+}
+
+.container h1 {
+  font-family: "cocogoose", sans-serif;
+  font-size: 1.5rem;
+  letter-spacing: 1.5px;
+}
+
+.year {
+  width: 100%;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 900;
+  font-size: 2.1rem;
+  margin-bottom: 15%;
+}
+
+.header-content {
+  border: 1px solid #d3d3d3;
+  background-color: #fff;
+  padding: 3%;
+  line-height: 1.5rem;
+}
+
+.main-content .text-center h1 {
+  margin-top: 5%;
+}
+
+.main-content-headers {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.bg-header-image {
+  position: absolute;
+  width: 100%;
+  z-index: -1;
+  bottom: 0;
+  left: 0;
+  background-size: cover;
+}
+
+.bg-header-image-rotate {
+  transform: rotate(180deg);
+  top: 0;
+  right: 0;
+  position: absolute;
+  width: 100%;
+  z-index: -2;
+  background-size: cover;
+}
