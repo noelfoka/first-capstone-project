@@ -54,7 +54,7 @@ For more information on the importance of a professional README for your reposit
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [⭐️ Show your support ](#️-show-your-support-)
-  - [� Acknowledgments ](#-acknowledgments-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
@@ -132,7 +132,7 @@ Clone this repository to your desired folder:
 👤 **Noel Foka**
 
 - GitHub: [@noelfoka](https://github.com/noelfoka)
-- Twitter: [@twitterhandle](https://twitter.com/noelnomgne)
+- Twitter: [@noelnomgne](https://twitter.com/noelnomgne)
 - LinkedIn: [noel-foka](https://www.linkedin.com/in/no%C3%ABl-nomgne-foka-063013231/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
