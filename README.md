@@ -160,6 +160,8 @@ If you like this project give me the ⭐
 
 I would like to thank Microverse for all its resources and my coding partners and in particular Cindy Shin who designed this template
 
+This template was inspired by [Cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
