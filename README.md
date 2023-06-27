@@ -158,12 +158,9 @@ If you like this project give me the ⭐
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
-I would like to thank Microverse for all its resources and my coding partners
+I would like to thank Microverse for all its resources and my coding partners and in particular Cindy Shin who designed this template
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
 
 
 <!-- LICENSE -->
