@@ -153,8 +153,69 @@
                 </article>
             </div>
             <button type="button" name="join-us" class="btn main-btn">
-                See the program
+                Join the program
+            </button>
+            <a class="see-program"><u>SEE THE WHOLE PROGRAM</u></a>
+        </section>
+        <section class="featured-speakers flex-column-center" id="speakers">
+            <h2 class="featured-speakers-header light-black heading-medium">
+                Featured Speakers
+            </h2>
+            <hr class="horizontal-line text-center" />
+            <div class="speakers-list"></div>
+            <button type="button" name="join-us" class="btn speakers-btn"
+                onclick="toggleSpeakers()">
+                MORE <i class="fas fa-angle-down down-arrow"></i>
             </button>
         </section>
+        <section class="partners bg-light-black flex-column-center"
+            id="partners">
+            <h2 class="partners-heading light-grey heading-medium">Partners</h2>
+            <hr class="horizontal-line text-center" />
+            <ul class="partners-list flex-row-center">
+                <li class="list-item-container mozilla">
+                    <img class="list-item" src="./utils/images/firefox.svg"
+                        alt="mozilla" />
+                </li>
+                <li class="list-item-container mozilla">
+                    <img class="list-item"
+                        src="./utils/images/google-g-2015.svg"
+                        alt="mozilla" />
+                </li>
+                <li class="list-item-container mozilla">
+                    <img class="list-item" src="./utils/images/facebook-3.svg"
+                        alt="mozilla" />
+                </li>
+                <li class="list-item-container mozilla">
+                    <img class="list-item" src="./utils/images/tesla-motors.svg"
+                        alt="mozilla" />
+                </li>
+                <li class="list-item-container mozilla">
+                    <img class="list-item"
+                        src="./utils/images/amazon-lightsail.svg"
+                        alt="mozilla" />
+                </li>
+            </ul>
+        </section>
+        <footer class="footer flex-column-center" id="contact">
+            <h3 class="contact light-black heading-medium">Contact</h3>
+            <hr class="horizontal-line text-center" />
+            <div class="flex-row-center contact-details">
+                <img
+                    src="./utils/images/ytu-logo-eng.jpg"
+                    alt="yildiz technical university logo"
+                    class="ytu-logo" />
+                <div class="adress">
+                    <p class="phone-number"><b>Phone:</b>( +237)690672268</p>
+                    <p class="adress-details">
+                        <b>Address:</b> Douala Cameroon <br />
+                        PK14
+                    </p>
+                </div>
+            </div>
+            <p class="rights"><i class="far fa-copyright"></i>2023. All rights
+                reserved</p>
+        </footer>
+        <script src="./js/app.js"></script>
     </body>
 </html>
