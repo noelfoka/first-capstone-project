@@ -22,7 +22,7 @@ It is built as a part of Microverse Web Developer Course. The mobile-first appro
 
 ## Presentation of Project
 
-[Loom Video Link](https://www.loom.com/share/e624d0f6b1844c93a0e01d8bd587930e)
+[Loom Video Link](https://www.loom.com/share/e97d1587121a4dc9a90db8145b204eb0)
 
 ## Project Description
 
