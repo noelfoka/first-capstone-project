@@ -41,7 +41,7 @@ For more information on the importance of a professional README for your reposit
 
 # 📗 Table of Contents
 
-- [� Table of Contents](#-table-of-contents)
+- [📗 Table of Contents](#-table-of-contents)
 - [📖Microverse HTML, CSS, JS Capstone Projec ](#microverse-html-css-js-capstone-projec-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
@@ -51,10 +51,6 @@ For more information on the importance of a professional README for your reposit
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
-    - [Install](#install)
-    - [Usage](#usage)
-    - [Run tests](#run-tests)
-    - [Deployment](#deployment)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -74,7 +70,7 @@ The website content is fictional. It was created using HTML, CSS and JavaScript 
 
 ![web](https://github.com/microverseinc/curriculum-html-css/blob/main/capstone/images/conference_page.png)
 
-**Microverse HTML, CSS, JS Capstone Projec** is The website content is fictional. It was created using HTML, CSS and JavaScript to meet the requirements defined within the scope of the Microverse Capstone project. In particular, I would like to point out that I built this website completely from scratch.
+**Microverse HTML, CSS, JS Capstone Projec** is a fictional website describing a conference on the evolution of digital in our continent and more precisely in our region. It is built using HTML, CSS, and JavaScript.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -103,7 +99,6 @@ The website content is fictional. It was created using HTML, CSS and JavaScript 
 - [noel-capstone](https://noelfoka.github.io/first-capstone-project/)
 
 ## Presentation of Project
-
 - [Loom Video Link](https://www.loom.com/share/e97d1587121a4dc9a90db8145b204eb0)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -112,83 +107,23 @@ The website content is fictional. It was created using HTML, CSS and JavaScript 
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-The project you are going to build is based on an *online website for a conference*. We provide some design guidelines for you to create the website. It's very important the you personalize your project so that you have something unique in your portfolio to share with potential employers during job searching.
-
-To get a local copy up and running, follow these steps.
-
 ### Prerequisites
 
 In order to run this project you need:
 
-<!--
-Example command:
-
 ```sh
- gem install rails
+ npm install
 ```
- -->
+
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  cd first-capstone-project
+  git clone git@github.com:noelfoka/first-capstone-project.git
 ```
---->
-
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -196,19 +131,11 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Noel Foka**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@noelfoka](https://github.com/noelfoka)
+- Twitter: [@twitterhandle](https://twitter.com/noelnomgne)
+- LinkedIn: [noel-foka](https://www.linkedin.com/in/no%C3%ABl-nomgne-foka-063013231/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -216,11 +143,9 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **Javascript Capstone project**
+- [ ] **React JS capstone project**
+- [ ] **ROR Capstone project**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -240,7 +165,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project give me the ⭐
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
