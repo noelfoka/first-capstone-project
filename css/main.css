@@ -21,8 +21,25 @@ ul {
   list-style-type: none;
 }
 
+button,
+input[type="submit"],
+input[type="reset"] {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+}
+
 header {
   width: 100%;
+}
+
+/* Upperside */
+.upperside {
+  display: none;
 }
 
 /* Nav Menu */
@@ -90,7 +107,7 @@ nav h2 {
   font-size: 36px;
   color: #ec5242;
   display: block;
-  transition: 0.4s;
+  transition: 0.3s;
 }
 
 .overlay a:hover,
@@ -105,7 +122,11 @@ nav h2 {
   font-size: 4rem;
 }
 
-/* First section */
+.desktop-navbar {
+  display: none;
+}
+
+/* First Section */
 .container {
   width: 100%;
   position: relative;
@@ -122,7 +143,7 @@ nav h2 {
 
 .container h1 {
   font-family: "cocogoose", sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.85rem;
   letter-spacing: 1.5px;
 }
 
@@ -171,6 +192,7 @@ nav h2 {
   background-size: cover;
 }
 
+/* First Section Info */
 .infos {
   margin: 10% 0;
 }
@@ -207,7 +229,7 @@ nav h2 {
   margin: 5% 0;
 }
 
-.see-prpogram {
+.see-program {
   display: none;
 }
 
@@ -382,4 +404,3 @@ nav h2 {
   margin: 5% 0;
   justify-content: space-around;
 }
-

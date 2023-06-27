@@ -1,53 +1,49 @@
 const speakers = [
   {
     id: 1,
-    image: "https://avatars.githubusercontent.com/u/51737508?v=4",
-    name: "Tacettin Kustu",
-    organization: "Full Stack Developer at Microverse",
+    image: "./utils/images/marcel.png",
+    name: "Oleando DASSI",
+    organization: "CEO of NUMERICA IDEAS",
     background:
       "Lorem ipsum, dolor sit amet adipisicing elit. Deleniti, molestias.",
   },
   {
     id: 2,
-    image:
-      "https://static.dezeen.com/uploads/2021/06/elon-musk-architect_dezeen_1704_col_0.jpg",
-    name: "Elon Musk",
-    organization: "CEO of Tesla",
+    image: "./utils/images/ismael.jpg",
+    name: "Ismael MESSA",
+    organization: "Full Stack developer at Workbut",
     background:
       "Lorem ipsum, dolor sit amet adipisicing elit. Deleniti, molestias.",
   },
   {
     id: 3,
-    image:
-      "https://www.ortakdurak.com/wp-content/uploads/2021/06/Jeff-Bezos.png",
-    name: "Jeff Bezos",
-    organization: "CEO of Amazon",
+    image: "./utils/images/Bineli.jpeg",
+    name: "Bineli MANGA",
+    organization: "Software Developer at Orange-Cameroon",
     background:
       "Lorem ipsum, dolor sit amet adipisicing elit. Deleniti, molestias.",
   },
   {
     id: 4,
-    image: "https://i1.sndcdn.com/avatars-000099702312-agl30n-t500x500.jpg",
-    name: "Mark Zuckerberg",
-    organization: "CEO of Facebook",
+    image: "./utils/images/valdes.jpeg",
+    name: "Valdèse Kamdem",
+    organization: "Android Engineer at Cash App",
     background:
       "Lorem ipsum, dolor sit amet adipisicing elit. Deleniti, molestias.",
   },
   {
     id: 5,
-    image:
-      "https://eshop.macsales.com/blog/wp-content/uploads/2015/03/TimCookTwitter.jpg",
-    name: "Tim Cook",
-    organization: "CEO of Apple",
+    image: "./utils/images/badang.jpg",
+    name: "Badang amessene romeo",
+    organization: "IT Director at Enjema",
     background:
       "Lorem ipsum, dolor sit amet adipisicing elit. Deleniti, molestias.",
   },
   {
     id: 6,
-    image:
-      "https://www.glusea.com/wp-content/uploads/2020/11/M-FEJMZ0_400x400.jpg",
-    name: "Sunder Pichai",
-    organization: "CEO of Google",
+    image: "./utils/images/franklin.jpeg",
+    name: "Franklin NGOUNOU",
+    organization: "Cybersecurity Consultant",
     background:
       "Lorem ipsum, dolor sit amet adipisicing elit. Deleniti, molestias.",
   },
